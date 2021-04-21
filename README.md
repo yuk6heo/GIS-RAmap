@@ -9,6 +9,6 @@
 
 -->
 
-Implementation of oral paper of CVPR2021, "Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps"
+Implementation of CVPR2021 oral paper, "Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps"
 
 ### To be released in May
