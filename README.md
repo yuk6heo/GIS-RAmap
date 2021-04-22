@@ -2,15 +2,14 @@
 # Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps
 ### Yuk Heo, Yeong Jun Koh, Chang-Su Kim
 
-
-[[ArXiv]](https://arxiv.org/abs/2007.08139)
-[[Video-introduction]](https://www.youtube.com/watch?v=J_Gc0N3aXXo&ab_channel=YukHeo)
-[[Video-comparison]](https://www.youtube.com/watch?v=-kcqDb96Y0Q&t=54s&ab_channel=YukHeo)
-
 <!--
 [[Project page]](http://mcl.korea.ac.kr/yukheo_eccv2020/)
 -->
 
 Implementation of CVPR2021 oral paper, "Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps"
+
+[[ArXiv]](https://arxiv.org/abs/2007.08139)
+[[Video-introduction]](https://www.youtube.com/watch?v=J_Gc0N3aXXo&ab_channel=YukHeo)
+[[Video-comparison]](https://www.youtube.com/watch?v=-kcqDb96Y0Q&t=54s&ab_channel=YukHeo)
 
 ### To be released in May
