@@ -3,9 +3,9 @@
 ### Yuk Heo, Yeong Jun Koh, Chang-Su Kim
 
 
-[[arXiv]](https://arxiv.org/abs/2007.08139)
-[[video-introduction]](https://www.youtube.com/watch?v=J_Gc0N3aXXo&ab_channel=YukHeo)
-[[video-comparison]](https://www.youtube.com/watch?v=-kcqDb96Y0Q&t=54s&ab_channel=YukHeo)
+[[ArXiv]](https://arxiv.org/abs/2007.08139)
+[[Video-introduction]](https://www.youtube.com/watch?v=J_Gc0N3aXXo&ab_channel=YukHeo)
+[[Video-comparison]](https://www.youtube.com/watch?v=-kcqDb96Y0Q&t=54s&ab_channel=YukHeo)
 
 <!--
 [[Project page]](http://mcl.korea.ac.kr/yukheo_eccv2020/)
