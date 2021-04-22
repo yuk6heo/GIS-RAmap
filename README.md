@@ -3,7 +3,7 @@
 ### Yuk Heo, Yeong Jun Koh, Chang-Su Kim
 
 
-[[paper]](https://arxiv.org/abs/2007.08139)
+[[arXiv]](https://arxiv.org/abs/2007.08139)
 [[video-introduction]](https://www.youtube.com/watch?v=J_Gc0N3aXXo&ab_channel=YukHeo)
 [[video-comparison]](https://www.youtube.com/watch?v=-kcqDb96Y0Q&t=54s&ab_channel=YukHeo)
 
