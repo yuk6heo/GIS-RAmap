@@ -8,7 +8,7 @@
 
 Implementation of CVPR2021 oral paper, "Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps"
 
-[[ArXiv]](https://arxiv.org/abs/2007.08139)
+[[Paper]](http://mcl.korea.ac.kr/~yyuk25/CVPR2021/2021_CVPR_YHEO.pdf)
 [[Project page]](http://mcl.korea.ac.kr/yukheo_cvpr2021/)
 [[Video-introduction]](https://www.youtube.com/watch?v=J_Gc0N3aXXo)
 [[Video-comparison]](https://www.youtube.com/watch?v=-kcqDb96Y0Q)
