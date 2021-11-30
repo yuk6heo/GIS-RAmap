@@ -49,8 +49,8 @@ Codes in this github:
 
 1. Edit `config.py` to set the directory of your DAVIS2017 dataset and the gpu ID.
 2. Download our parameters and place the file as `root/checkpoints/GIS-ckpt_standard.pth`.
-    - [DAVIS2017 evaluation](https://drive.google.com/file/d/1tQQKA9o9Wui1cxZTh85QdkpmksyhI0Xl/view?usp=sharing)
-    - [youtube2019 evaluation](https://drive.google.com/file/d/1tQQKA9o9Wui1cxZTh85QdkpmksyhI0Xl/view?usp=sharing)
+    - for DAVIS2017 evaluation [ckptfile](https://drive.google.com/file/d/1dkgXJJ2gPYDtPE9yTtlP4Th0iNX5ZG6a/view?usp=sharing)
+    - for youtube2019 evaluation [ckptfile](https://drive.google.com/file/d/1m52fHwoYt2zupSmqgvDYUTqB24ApX0my/view?usp=sharing)
  
 3. Evaluate with
     - `python3 IVOS_main_DAVIS.py`.
@@ -65,11 +65,11 @@ Multi-object GUI (for DAVIS2017) is available at our github page, [GUI-iVOS_and_
 Please cite our paper if the implementations are useful in your work:
 ```
 @Inproceedings{
-Yuk2020IVOS,
-title={Interactive Video Object Segmentation Using Global and Local Transfer Modules},
+Yuk2021GIS,
+title={Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps},
 author={Yuk Heo and Yeong Jun Koh and Chang-Su Kim},
-booktitle={ECCV},
-year={2020},
-url={https://openreview.net/forum?id=bo_lWt_aA}
+booktitle={CVPR},
+year={2021},
+url={https://openaccess.thecvf.com/content/CVPR2021/papers/Heo_Guided_Interactive_Video_Object_Segmentation_Using_Reliability-Based_Attention_Maps_CVPR_2021_paper.pdf}
 }
 ```
