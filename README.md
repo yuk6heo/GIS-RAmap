@@ -49,8 +49,8 @@ Codes in this github:
 
 1. Edit `config.py` to set the directory of your DAVIS2017 dataset and the gpu ID.
 2. Download our parameters and place the file as `root/checkpoints/GIS-ckpt_standard.pth`.
-    - for DAVIS2017 evaluation [ckptfile](https://drive.google.com/file/d/1dkgXJJ2gPYDtPE9yTtlP4Th0iNX5ZG6a/view?usp=sharing)
-    - for youtube2019 evaluation [ckptfile](https://drive.google.com/file/d/1m52fHwoYt2zupSmqgvDYUTqB24ApX0my/view?usp=sharing)
+    - For DAVIS2017 evaluation - [Checkpoint](https://drive.google.com/file/d/1dkgXJJ2gPYDtPE9yTtlP4Th0iNX5ZG6a/view?usp=sharing)
+    - For youtube2019 evaluation - [Checkpoint](https://drive.google.com/file/d/1m52fHwoYt2zupSmqgvDYUTqB24ApX0my/view?usp=sharing)
  
 3. Evaluate with
     - `python3 IVOS_main_DAVIS.py`.
