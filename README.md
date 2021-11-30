@@ -33,9 +33,11 @@ Codes in this github:
  
  * `root/libs`: library of utility files.
 
- * `root/networks` : network codes
+ * `root/networks` : codes for networks
      - `deeplab`: applies ASPP module in decoders. [[original code]](https://github.com/jfzhang95/pytorch-deeplab-xception/tree/master/modeling)
      - `network.py`: consists our whole network.
+ 
+ * `root/results` : result files for both evaluation results are attached.
 
  * `root/config.py`  : configurations. you must set your directories here.
  
