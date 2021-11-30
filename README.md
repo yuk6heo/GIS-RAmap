@@ -51,14 +51,14 @@ Codes in this github:
 
 1. Edit `config.py` to set the directory of your DAVIS2017 dataset and the gpu ID.
 2. Download our parameters and place the file as `root/checkpoints/GIS-ckpt_standard.pth`.
-    - For DAVIS2017 evaluation - [[Google-Drive]](https://drive.google.com/file/d/1dkgXJJ2gPYDtPE9yTtlP4Th0iNX5ZG6a/view?usp=sharing)
-    - For youtube2019 evaluation - [[Google-Drive]](https://drive.google.com/file/d/1m52fHwoYt2zupSmqgvDYUTqB24ApX0my/view?usp=sharing)
+    - For DAVIS2017 evaluation [[Google-Drive]](https://drive.google.com/file/d/1dkgXJJ2gPYDtPE9yTtlP4Th0iNX5ZG6a/view?usp=sharing)
+    - For youtube2019 evaluation [[Google-Drive]](https://drive.google.com/file/d/1m52fHwoYt2zupSmqgvDYUTqB24ApX0my/view?usp=sharing)
  
 3. Evaluate with
     - `python3 IVOS_main_DAVIS.py`.
     - `python3 IVOS_main_youtube.py`.
 
-### DAVIS2016 real-world evaluation GUI
+### DAVIS2017 real-world evaluation GUI
 
 Multi-object GUI (for DAVIS2017) is available at our github page, [GUI-iVOS_and_GIS](https://github.com/yuk6heo/GUI-iVOS_and_GIS)
 
