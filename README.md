@@ -58,7 +58,7 @@ Codes in this github:
 
 ### DAVIS2017 real-world evaluation GUI
 
-Multi-object GUI (for DAVIS2017) is available at our github page, [GUI-iVOS_and_GIS](https://github.com/yuk6heo/GUI-iVOS_and_GIS)
+Multi-object GUI (for DAVIS2017) is available at our github page, [[GUI-IVOS]](https://github.com/yuk6heo/GUI-IVOS)
 
 ## Reference
 
